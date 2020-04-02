@@ -34,6 +34,8 @@ The site will now be live on your localhost!
 
 https://developer.mozilla.org/en-US/docs/Learn/Accessibility/Multimedia
 
+https://www.codespeedy.com/play-and-pause-html5-video-by-pressing-space-key-javascript/
+
 https://w3c.github.io/webvtt/
 
 https://developer.mozilla.org/en-US/docs/Web/Guide/Audio_and_video_delivery/Adding_captions_and_subtitles_to_HTML5_video
